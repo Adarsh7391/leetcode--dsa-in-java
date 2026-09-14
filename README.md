@@ -191,6 +191,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0507-perfect-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0877-stone-game/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1140-stone-game-ii/) | Medium |
@@ -757,4 +758,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
