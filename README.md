@@ -196,6 +196,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1140-stone-game-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1510-stone-game-iv/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -762,4 +763,5 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
