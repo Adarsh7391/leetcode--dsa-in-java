@@ -257,6 +257,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [3110-score-of-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3110-score-of-a-string/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -539,6 +540,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3379-transformed-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
