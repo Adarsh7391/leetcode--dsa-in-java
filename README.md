@@ -122,6 +122,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0012-integer-to-roman/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0141-linked-list-cycle/) | Easy |
@@ -223,6 +224,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0012-integer-to-roman/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
@@ -495,6 +497,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1004-max-consecutive-ones-iii/) | Medium |
