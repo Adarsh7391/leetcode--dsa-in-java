@@ -15,6 +15,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0027-remove-element](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
@@ -124,6 +125,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0001-two-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0012-integer-to-roman/) | Medium |
+| [0041-first-missing-positive](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0142-linked-list-cycle-ii/) | Medium |
