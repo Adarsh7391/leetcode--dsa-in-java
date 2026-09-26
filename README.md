@@ -768,6 +768,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0056-merge-intervals/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
