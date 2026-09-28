@@ -255,6 +255,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -524,6 +525,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -779,4 +781,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
