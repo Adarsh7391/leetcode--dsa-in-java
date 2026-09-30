@@ -252,6 +252,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0771-jewels-and-stones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -525,6 +526,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0739-daily-temperatures](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -784,5 +786,6 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
