@@ -233,6 +233,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0072-edit-distance/) | Medium |
@@ -355,6 +356,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0115-distinct-subsequences/) | Hard |
@@ -493,6 +495,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0077-combinations/) | Medium |
@@ -789,6 +792,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
