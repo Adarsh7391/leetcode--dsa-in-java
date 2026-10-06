@@ -256,6 +256,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0771-jewels-and-stones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -538,6 +539,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0678-valid-parenthesis-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -603,6 +605,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0561-array-partition](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0561-array-partition/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2029-stone-game-ix/) | Medium |
@@ -805,6 +808,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0032-longest-valid-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
