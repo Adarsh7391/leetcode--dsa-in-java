@@ -811,4 +811,8 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
