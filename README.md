@@ -99,6 +99,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2540-minimum-common-value/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2643-row-with-maximum-ones/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -728,6 +729,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
