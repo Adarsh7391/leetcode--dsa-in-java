@@ -100,6 +100,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2540-minimum-common-value](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2540-minimum-common-value/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -160,6 +161,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2351-first-letter-to-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2540-minimum-common-value/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -834,4 +836,12 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
