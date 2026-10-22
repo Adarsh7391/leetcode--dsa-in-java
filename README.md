@@ -125,6 +125,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [3875-construct-uniform-parity-array-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
