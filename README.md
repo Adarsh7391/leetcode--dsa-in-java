@@ -117,6 +117,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -318,6 +319,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
