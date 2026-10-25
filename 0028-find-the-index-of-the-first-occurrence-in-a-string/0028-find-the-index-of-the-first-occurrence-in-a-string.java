@@ -1,5 +1,5 @@
 class Solution {
-    public int strStr(String a, String b) {
-        return a.indexOf(b);
+    public int strStr(String s, String t) {
+        return s.indexOf(t);
     }
 }
