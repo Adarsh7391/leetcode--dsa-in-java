@@ -780,6 +780,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1510-stone-game-iv/) | Hard |
@@ -787,6 +788,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1510-stone-game-iv/) | Hard |
