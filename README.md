@@ -52,6 +52,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0416-partition-equal-subset-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -201,6 +202,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [0371-sum-of-two-integers](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0441-arranging-coins](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/0509-fibonacci-number/) | Easy |
