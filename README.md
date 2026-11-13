@@ -108,6 +108,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
