@@ -100,6 +100,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2540-minimum-common-value/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -434,6 +435,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -641,6 +643,7 @@ Consistent daily practice of LeetCode problems in Java. Building strong problem-
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2029-stone-game-ix/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ad-535/leetcode--dsa-in-java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
